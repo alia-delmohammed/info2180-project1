@@ -127,8 +127,10 @@ article{
     display: flex;
 }
 .stories img{
-    padding-bottom: 50px;
-    padding-right: 80px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 50px;
+    padding-left: 50px;
     width: 200px; 
     height: 200px;
     border-radius: 50%;
